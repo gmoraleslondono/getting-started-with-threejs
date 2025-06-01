@@ -4,11 +4,11 @@ This project is a simple introduction to using [Three.js](https://threejs.org/),
 
 ## Features
 
-- **Scene, Camera, Renderer**: Basic setup for rendering 3D objects.
-- **Orbit Controls**: Allows smooth camera movement around the scene.
+- **Basic setup: Scene, Camera, Renderer**: Basic setup for rendering 3D objects.
+- **Key listeners and Orbit Controls**: Allows smooth camera movement around the scene.
 - **Geometries**: Includes an icosahedron with both solid and wireframe materials.
 - **Lighting**: Uses a hemisphere light to illuminate the scene.
-- **Animation Loop**: Continuously renders the scene and updates controls.
+- **Animation Loop and requestAnimationFrame**: Continuously renders the scene and updates controls.
 
 ## Tutorial
 
